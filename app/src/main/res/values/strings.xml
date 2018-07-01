@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TesteRest</string>
+
+    <string name="msg_dialog_titulo">Alerta</string>
+    <string name="msg_sessao_expirada">Sessão expirada!</string>
+    <string name="msg_btn_sair">Sair</string>
+    <string name="msg_conexao_perdida">Conexão perdida! tentando reconectar ...</string>
+    <string name="login_impossivel">Verifique suas informações ou conexão!</string>
+    <string name="msg_btn_ok">Ok</string>
+</resources>

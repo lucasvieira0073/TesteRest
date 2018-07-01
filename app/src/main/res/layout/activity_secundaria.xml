@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".app.telas.secundaria.SecundariaActivity">
+
+    <Button
+        android:id="@+id/secundaria_btn_parar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Parar"/>
+
+    <Button
+        android:id="@+id/secundaria_btn_executar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Executar"/>
+
+    <ProgressBar
+        android:id="@+id/secundaria_progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible"/>
+
+</LinearLayout>
